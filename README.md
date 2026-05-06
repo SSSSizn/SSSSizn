@@ -25,9 +25,9 @@
 
 ---
 
-### 🔹 PyAnalyzer *(OpenRank Competition Project)*  
+### 🔹 PyAnalyzer  
 > Analyze dependency health in Python open-source ecosystem  
-> 面向 Python 开源生态的依赖分析工具（OpenRank 比赛项目）
+> 面向 Python 开源生态的依赖分析工具  
 
 - 📊 依赖分析 · 社区健康度评估  
 - 🌐 数据分析 + 插件 + Web 可视化  
