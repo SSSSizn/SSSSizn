@@ -49,12 +49,20 @@
 ## 🛠️ Skills / 技术栈  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSSSizn&layout=compact&hide_border=true&cache_seconds=86400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSSSizn&layout=compact&hide_border=true&cache_seconds=86400&hide=html,css" alt="Top Langs" />
 </p>
 
 <p align="center">
-omg, did I really learn all these? 🤯  
-(some I master, some I use, some just met 👀)
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+</p>
+
+<p align="center">
+  omg, did I really learn all these? 🤯  
+  (some I master, some I use, some just met 👀)
 </p>
 
 ---
@@ -62,35 +70,36 @@ omg, did I really learn all these? 🤯
 ## 📊 GitHub Stats  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SSSSizn&show_icons=true&hide_border=true&cache_seconds=86400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SSSSizn&show_icons=true&hide_border=true&cache_seconds=86400&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
+
 <p align="center">
-the rest is evolving locally…
+  the rest is evolving locally…
 </p>
 
 ---
 
 ## 📈 Activity  
 
-<!-- ⚠️ 备用：主图 + fallback -->
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SSSSizn&theme=github-compact&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SSSSizn&theme=github-compact&hide_border=true&area=true&cache_seconds=86400" alt="Activity Graph" />
 </p>
 
 <p align="center">
-When I’m not coding, I’m probably exploring the world 🌍
+  When I’m not coding, I’m probably exploring the world 🌍
 </p>
+
 ---
 
 ## 👀 Visitors  
 
 <p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=SSSSizn"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SSSSizn" alt="Visitors" />
 </p>
 
 <p align="center">
-再看...再看就把你吃掉 👀
+  再看...再看就把你吃掉 👀
 </p>
 
 ---
