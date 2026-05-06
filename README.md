@@ -48,22 +48,26 @@
 
 ## 🛠️ Skills / 技术栈  
 
-<div align="center">
+<p align="center">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSSSizn&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+</p>
 
-<p align="center"><i>omg, did I really learn all these? 🤯 (some I master, some I use, some just met 👀)</i></p>
+<p align="center">
+<sub>omg, did I really learn all these? 🤯</sub><br>
+<sub>(some I master, some I use, some just met 👀)</sub>
+</p>
 
 ---
 
 ## 📊 GitHub Stats  
 
-<div align="center">
+<p align="center">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SSSSizn&show_icons=true&theme=tokyonight&hide_border=true"/>
-</div>
+</p>
 
-<p align="center"><i>the rest is evolving locally…</i></p>
-
+<p align="center">
+<sub>the rest is evolving locally…</sub>
+</p>
 ---
 
 ## 📈 Activity  
