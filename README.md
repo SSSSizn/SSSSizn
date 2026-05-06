@@ -49,7 +49,7 @@
 ## 🛠️ Skills / 技术栈  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSSSizn&layout=compact&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSSSizn&layout=compact&hide_border=true&cache_seconds=86400"/>
 </p>
 
 <p align="center">
@@ -62,7 +62,7 @@ omg, did I really learn all these? 🤯
 ## 📊 GitHub Stats  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SSSSizn&show_icons=true&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SSSSizn&show_icons=true&hide_border=true&cache_seconds=86400"/>
 </p>
 
 <p align="center">
@@ -73,6 +73,7 @@ the rest is evolving locally…
 
 ## 📈 Activity  
 
+<!-- ⚠️ 备用：主图 + fallback -->
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SSSSizn&theme=github-compact&hide_border=true"/>
 </p>
@@ -80,7 +81,6 @@ the rest is evolving locally…
 <p align="center">
 When I’m not coding, I’m probably exploring the world 🌍
 </p>
-
 ---
 
 ## 👀 Visitors  
