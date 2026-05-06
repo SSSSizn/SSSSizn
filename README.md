@@ -64,7 +64,7 @@ Accessing now will likely return a 404 👻
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=Not+the+full+power...;The+rest+is+evolving+locally...;Still+leveling+up..." />
+<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&lines=the+rest+is+evolving+locally...&pause=2000" />
 </p>
 
 ---
@@ -76,7 +76,7 @@ Accessing now will likely return a 404 👻
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=Keep+looking...;I+might+consume+your+curiosity👀;Just+kidding...+or+am+I?" />
+<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&lines=再看...再看就把你吃掉👀&pause=2000" />
 </p>
 
 ---
@@ -88,7 +88,7 @@ Accessing now will likely return a 404 👻
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=When+not+coding...;Exploring+the+world🌍;Thinking+about+the+next+line..." />
+<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=700&lines=When+I%E2%80%99m+not+coding%2C+I%E2%80%99m+probably+exploring+the+world🌍&pause=2000" />
 </p>
 
 ---
@@ -100,9 +100,8 @@ Accessing now will likely return a 404 👻
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=Did+I+really+learn+all+these?🤯;Some+I+master...;Some+we+just+met👀;Still+learning+every+day..." />
+<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=750&lines=omg%2C+did+I+really+learn+all+these%3F+🤯+(some+I+master%2C+some+I+use%2C+and+some%E2%80%A6+we%E2%80%99ve+just+met+once+👀)&pause=2000" />
 </p>
-
 \
 
 ---
