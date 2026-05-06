@@ -1,107 +1,99 @@
-## 👋 Hi there / 你好
-
-🎓 **Student @ East China Normal University (ECNU)**  
-📊 Data Science & Big Data Technology (Junior / 大三在读)
+<h1 align="center">Hi 👋, I'm SSSSizn</h1>
+<p align="center">Data Science Student · AI / Backend Explorer</p>
 
 ---
 
-### 🧑‍💻 About Me / 关于我
+## 🧑‍💻 About Me / 关于我
 
-
-* 📫 How to reach me / 联系方式:  
-  **Email:** [a18990330371@outlook.com](mailto:a18990330371@outlook.com)
-
----
-
-## 🚀 Projects 示
-
-### 📌 Project 1 
-
-* 🧾 Description    
-- PPTAS（PPT Agent System）是一个基于大语言模型的智能学习辅助系统，专注于将传统静态 PPT 课件转化为可交互、可扩展的动态学习工具。系统能够自动解析 PPT 的结构层级与核心内容，结合语义检索、思维导图构建与多源知识扩展，实现对学习内容的深度理解与系统化重构。  
-- 针对学生在考前复习与课后自学过程中面临的信息碎片化、理解困难与资源不足等问题，PPTAS 提供了从内容分析、知识补全到智能讲解的一体化解决方案，有效提升学习效率与知识掌握深度。  
-- PPTAS (PPT Agent System) is an AI-powered intelligent learning assistant designed to transform static PPT materials into interactive and extensible learning experiences. By automatically analyzing slide structures and key concepts, and integrating semantic retrieval, mind map construction, and multi-source knowledge expansion, the system enables deeper understanding and structured knowledge reconstruction.  
-- To address common challenges in exam preparation and self-learning—such as fragmented information, comprehension gaps, and limited resources—PPTAS provides an end-to-end solution covering content analysis, knowledge augmentation, and AI-assisted explanation, significantly improving learning efficiency.  
-
-* 🔗 Link     
-[https://github.com/AM-SuSh/PPTAS]
+- 🎓 ECNU · Data Science & Big Data Technology (Junior / 大三)
+- 🤖 Focus: LLM · Data Systems · Backend
+- 📫 Email: **a18990330371@outlook.com**
 
 ---
 
-### 📌 Project 2 
+## 🚀 Projects / 项目
 
-* 🧾 Description   
-- 本项目是一个面向 Python 开源生态的环境依赖分析工具套件，结合数据爬取、静态分析与 AI 辅助技术，对 GitHub 上的开源项目进行多维度评估。系统围绕依赖管理、工程健康度与社区友好性展开，帮助开发者快速理解项目质量、降低环境配置成本，并提升开源协作效率。  
-- 项目提供从数据分析、浏览器扩展到 Web 可视化的一体化解决方案，适用于学习研究、项目评估及工程实践等多种场景。  
+### 🔹 PPTAS  
+> AI-powered system that turns static PPT into interactive learning tools  
+> 基于大模型的智能学习系统，让 PPT “活起来”
+
+- 🧠 自动解析结构 · 语义检索 · 知识扩展  
+- 📚 构建知识框架，提升学习效率  
+
+🔗 https://github.com/AM-SuSh/PPTAS  
+
+---
+
+### 🔹 OpenRank  
+> Analyze dependency health in Python open-source ecosystem  
+> Python 开源生态依赖分析工具
+
+- 📊 依赖分析 · 社区健康度评估  
+- 🌐 数据分析 + 插件 + Web 可视化  
 
 👉 欢迎使用本项目，也非常欢迎提出 Issue 或建议！  
+👉 Feel free to use this project, and suggestions or issues are always welcome!
 
-- This project is a comprehensive toolkit for analyzing environment dependencies in Python open-source projects. By combining data crawling, static analysis, and AI-assisted techniques, it evaluates GitHub repositories across multiple dimensions, including dependency management, project health, and community friendliness.  
-- The system offers an integrated solution covering data analysis, browser extensions, and web-based visualization, making it suitable for research, project evaluation, and practical engineering use.  
-
-👉 Feel free to use this project, and contributions, feedback, and suggestions are always welcome!   
-
-* 🔗 Link     
-[https://github.com/SSSSizn/OpenRank]
+🔗 https://github.com/SSSSizn/OpenRank  
 
 ---
 
-### 📌 Project 3 
+### 🔹 Coming Soon  
+> Code exists. Still evolving.  
 
-* 🧾 Description  
-你来早了，它还在变强 😏
+你来早了，它还在变强 😏  
 
-* 🔗 Link  
-Accessing now will likely return a 404 👻  
-👉 Stay tuned.
+---
+
+## 🛠️ Skills / 技术栈  
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SSSSizn&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<p align="center"><i>omg, did I really learn all these? 🤯</i></p>
+<p align="center"><i>(some I master, some I use, and some… we’ve just met 👀)</i></p>
 
 ---
 
 ## 📊 GitHub Stats  
 
 <div align="center">
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SSSSizn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SSSSizn&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&lines=the+rest+is+evolving+locally...&pause=2000" />
-</p>
+<p align="center"><i>the rest is evolving locally…</i></p>
 
 ---
 
-## 👀 Visitors   
+## 📈 Activity  
 
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=SSSSizn&left_color=0d1117&right_color=58a6ff"/>
-</div>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&lines=再看...再看就把你吃掉👀&pause=2000" />
-</p>
-
----
-
-## 📈 Activity Graph    
-
-<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SSSSizn&theme=tokyo-night&hide_border=true"/>
+
 </div>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=700&lines=When+I%E2%80%99m+not+coding%2C+I%E2%80%99m+probably+exploring+the+world🌍&pause=2000" />
-</p>
+<p align="center"><i>When I’m not coding, I’m probably exploring the world 🌍</i></p>
 
 ---
 
-## 🛠️ Skills  
+## 👀 Visitors  
 
 <div align="center">
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SSSSizn&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=SSSSizn&left_color=0d1117&right_color=58a6ff"/>
+
 </div>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=750&lines=omg%2C+did+I+really+learn+all+these%3F+🤯+(some+I+master%2C+some+I+use%2C+and+some%E2%80%A6+we%E2%80%99ve+just+met+once+👀)&pause=2000" />
-</p>
-\
+<p align="center"><i>再看...再看就把你吃掉 👀</i></p>
 
 ---
+
+<p align="center">
+🛠️ Learning, building, and quietly leveling up.
+</p>
