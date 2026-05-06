@@ -8,7 +8,6 @@
 - 🎓 ECNU · Data Science & Big Data Technology (Junior / 大三)
 - 🤖 Focus: AI Agent · Data Mining · Data Analysis
 - 🎮 Interests: Games · Movies · Anime  
-  （白天写代码，晚上在别的世界升级打怪 🎮）
 - 📫 Email: **a18990330371@outlook.com**
 
 ---
@@ -68,7 +67,9 @@
 
 </div>
 
-<p align="center"><i>the rest is evolving locally…</i></p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&pause=2500&speed=40&lines=the+rest+is+evolving+locally..." />
+</p>
 
 ---
 
@@ -80,7 +81,9 @@
 
 </div>
 
-<p align="center"><i>When I’m not coding, I’m probably exploring the world 🌍</i></p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=700&pause=2200&lines=(some+I+master%2C+some+I+use%2C+and+some%E2%80%A6+we%E2%80%99ve+just+met+👀)" />
+</p>
 
 ---
 
@@ -92,7 +95,9 @@
 
 </div>
 
-<p align="center"><i>再看...再看就把你吃掉 👀</i></p>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&pause=2000&lines=再看...再看就把你吃掉+👀" />
+</p>
 
 ---
 
