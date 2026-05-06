@@ -7,7 +7,7 @@
 
 - 🎓 ECNU · Data Science & Big Data Technology (Junior / 大三)
 - 🤖 Focus: AI Agent · Data Mining · Data Analysis
-- 🎮 Interests: Games · Movies · Anime  
+- 🎮 Interests: Games · Movies · Anime
 - 📫 Email: **a18990330371@outlook.com**
 
 ---
@@ -25,7 +25,7 @@
 
 ---
 
-### 🔹 PyAnalyzer  *(OpenRank Competition Project)*  
+### 🔹 PyAnalyzer *(OpenRank Competition Project)*  
 > Analyze dependency health in Python open-source ecosystem  
 > 面向 Python 开源生态的依赖分析工具（OpenRank 比赛项目）
 
@@ -49,55 +49,40 @@
 ## 🛠️ Skills / 技术栈  
 
 <div align="center">
-
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SSSSizn&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSSSizn&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
-<p align="center"><i>omg, did I really learn all these? 🤯</i></p>
-<p align="center"><i>(some I master, some I use, and some… we’ve just met 👀)</i></p>
+<p align="center"><i>omg, did I really learn all these? 🤯 (some I master, some I use, some just met 👀)</i></p>
 
 ---
 
 ## 📊 GitHub Stats  
 
 <div align="center">
-
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SSSSizn&show_icons=true&theme=tokyonight&hide_border=true"/>
-
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SSSSizn&show_icons=true&theme=tokyonight&hide_border=true"/>
 </div>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&pause=2500&speed=40&lines=the+rest+is+evolving+locally..." />
-</p>
+<p align="center"><i>the rest is evolving locally…</i></p>
 
 ---
 
 ## 📈 Activity  
 
 <div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SSSSizn&theme=tokyo-night&hide_border=true"/>
-
 </div>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=700&pause=2200&lines=(some+I+master%2C+some+I+use%2C+and+some%E2%80%A6+we%E2%80%99ve+just+met+👀)" />
-</p>
+<p align="center"><i>When I’m not coding, I’m probably exploring the world 🌍</i></p>
 
 ---
 
 ## 👀 Visitors  
 
 <div align="center">
-
 <img src="https://visitor-badge.laobi.icu/badge?page_id=SSSSizn&left_color=0d1117&right_color=58a6ff"/>
-
 </div>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&pause=2000&lines=再看...再看就把你吃掉+👀" />
-</p>
+<p align="center"><i>再看...再看就把你吃掉 👀</i></p>
 
 ---
 
