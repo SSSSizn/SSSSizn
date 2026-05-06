@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm SSSSizn</h1>
-<p align="center">Data Science Student · AI / Backend Explorer</p>
+<p align="center">Data Science Student · AI Agent / Data Explorer</p>
 
 ---
 
 ## 🧑‍💻 About Me / 关于我
 
 - 🎓 ECNU · Data Science & Big Data Technology (Junior / 大三)
-- 🤖 Focus: LLM · Data Systems · Backend
+- 🤖 Focus: AI Agent · Data Mining · Data Analysis
+- 🎮 Interests: Games · Movies · Anime  
+  （白天写代码，晚上在别的世界升级打怪 🎮）
 - 📫 Email: **a18990330371@outlook.com**
 
 ---
@@ -24,9 +26,9 @@
 
 ---
 
-### 🔹 OpenRank  
+### 🔹 PyAnalyzer  *(OpenRank Competition Project)*  
 > Analyze dependency health in Python open-source ecosystem  
-> Python 开源生态依赖分析工具
+> 面向 Python 开源生态的依赖分析工具（OpenRank 比赛项目）
 
 - 📊 依赖分析 · 社区健康度评估  
 - 🌐 数据分析 + 插件 + Web 可视化  
