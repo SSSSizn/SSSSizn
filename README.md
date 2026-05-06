@@ -7,7 +7,7 @@
 
 - 🎓 ECNU · Data Science & Big Data Technology (Junior / 大三)
 - 🤖 Focus: AI Agent · Data Mining · Data Analysis
-- 🎮 Interests: Games · Movies · Anime
+- 🎮 Interests: [![Games](https://img.shields.io/badge/Games-🎮-blue)](https://your-link-here) [![Movies](https://img.shields.io/badge/Movies-🎬-red)](https://your-link-here) [![Anime](https://img.shields.io/badge/Anime-🌸-pink)](https://your-link-here) [![Music](https://img.shields.io/badge/Music-🎵-purple)](https://your-link-here)
 - 📫 Email: **a18990330371@outlook.com**
 
 ---
@@ -49,12 +49,12 @@
 ## 🛠️ Skills / 技术栈  
 
 <p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSSSizn&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSSSizn&layout=compact&hide_border=true"/>
 </p>
 
 <p align="center">
-<sub>omg, did I really learn all these? 🤯</sub><br>
-<sub>(some I master, some I use, some just met 👀)</sub>
+omg, did I really learn all these? 🤯  
+(some I master, some I use, some just met 👀)
 </p>
 
 ---
@@ -62,31 +62,36 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SSSSizn&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SSSSizn&show_icons=true&hide_border=true"/>
 </p>
 
 <p align="center">
-<sub>the rest is evolving locally…</sub>
+the rest is evolving locally…
 </p>
+
 ---
 
 ## 📈 Activity  
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SSSSizn&theme=tokyo-night&hide_border=true"/>
-</div>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SSSSizn&theme=github-compact&hide_border=true"/>
+</p>
 
-<p align="center"><i>When I’m not coding, I’m probably exploring the world 🌍</i></p>
+<p align="center">
+When I’m not coding, I’m probably exploring the world 🌍
+</p>
 
 ---
 
 ## 👀 Visitors  
 
-<div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=SSSSizn&left_color=0d1117&right_color=58a6ff"/>
-</div>
+<p align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=SSSSizn"/>
+</p>
 
-<p align="center"><i>再看...再看就把你吃掉 👀</i></p>
+<p align="center">
+再看...再看就把你吃掉 👀
+</p>
 
 ---
 
