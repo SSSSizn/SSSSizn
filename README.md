@@ -7,7 +7,7 @@
 
 - 🎓 ECNU · Data Science & Big Data Technology (Junior / 大三)
 - 🤖 Focus: AI Agent · Data Mining · Data Analysis
-- 🎮 Interests: [![Games](https://img.shields.io/badge/Games-🎮-blue)](https://your-link-here) [![Movies](https://img.shields.io/badge/Movies-🎬-red)](https://your-link-here) [![Anime](https://img.shields.io/badge/Anime-🌸-pink)](https://your-link-here) [![Music](https://img.shields.io/badge/Music-🎵-purple)](https://your-link-here)
+- 🎮 Interests: [![Games](https://img.shields.io/badge/Games-🎮-blue)](https://sr.mihoyo.com/) [![Movies](https://img.shields.io/badge/Movies-🎬-red)](https://www.bilibili.com/bangumi/play/ep682241) [![Anime](https://img.shields.io/badge/Anime-🌸-pink)](https://www.bilibili.com/bangumi/play/ep510759) [![Music](https://img.shields.io/badge/Music-🎵-purple)](https://music.apple.com/cn/song/city-of-stars/1440864172)
 - 📫 Email: **a18990330371@outlook.com**
 
 ---
@@ -95,6 +95,4 @@ When I’m not coding, I’m probably exploring the world 🌍
 
 ---
 
-<p align="center">
-🛠️ Learning, building, and quietly leveling up.
-</p>
+<p align="center"><i>“I'm a dreamer. I build worlds.”</i><br>— James Halliday, Ready Player One</p>
