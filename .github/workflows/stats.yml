@@ -1,9 +1,16 @@
+```yaml
 name: Generate GitHub Stats
 
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -17,10 +24,10 @@ jobs:
         run: |
           mkdir -p assets
 
-          curl -o assets/github-stats.svg \
+          curl -L -o assets/github-stats.svg \
             "https://github-readme-stats.vercel.app/api?username=SSSSizn&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
 
-          curl -o assets/top-langs.svg \
+          curl -L -o assets/top-langs.svg \
             "https://github-readme-stats.vercel.app/api/top-langs/?username=SSSSizn&layout=compact&hide_border=true&hide=html,css"
 
       - name: Commit files
@@ -30,6 +37,9 @@ jobs:
 
           git add assets/*.svg
 
-          git commit -m "update stats" || echo "No changes"
+          git diff --cached --quiet && exit 0
+
+          git commit -m "chore: update github stats"
 
           git push
+```
