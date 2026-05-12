@@ -42,7 +42,7 @@
 ### 🔹 Coming Soon  
 > Code exists. Still evolving.  
 
-你来早了，它还在变强 😏  
+你来早了，保密期还没过呢 😏  
 
 ---
 
@@ -57,7 +57,7 @@
 
 
 <p align="center">
-  hold on… where did C go?  
+  hold on… where did C go?    
   goodbye old lover 🥀
 </p>
 
@@ -80,7 +80,7 @@
 
 <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </p>
 
-<p align="center"> sssssssssss... besides snake, there’s <a href="https://tetris.com/play-tetris"> 🎮 tetris </a>, <a href="https://minesweeper.online/"> 💣 minesweeper </a>, <a href="https://www.king.com/game/candycrush"> 🍬 match-3 </a>... hard to stay focused because of you guys. </p>
+<p align="center"> sssssssssss... besides snake, there’s <a href="https://tetris.com/play-tetris" style="text-decoration:none;color:inherit;">🎮 tetris</a>, <a href="https://minesweeper.online/" style="text-decoration:none;color:inherit;">💣 minesweeper</a>, <a href="https://www.king.com/game/candycrush" style="text-decoration:none;color:inherit;">🍬 match-3</a>... hard to stay focused because of you guys. </p>
 
 ---
 
