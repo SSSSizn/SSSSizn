@@ -56,10 +56,7 @@
 </p>
 
 
-<p align="center">
-  hold on… where did C go?    
-  goodbye old lover 🥀
-</p>
+<p align="center"> hold on… where did C go? <br> goodbye old lover 🥀 </p>
 
 ---
 
@@ -78,10 +75,8 @@
 
 ## 🐍 sssssizn activity  
 
-<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </p>
-
-<p align="center"> sssssssssss... besides snake, there’s <a href="https://tetris.com/play-tetris" style="text-decoration:none;color:inherit;">🎮 tetris</a>, <a href="https://minesweeper.online/" style="text-decoration:none;color:inherit;">💣 minesweeper</a>, <a href="https://www.king.com/game/candycrush" style="text-decoration:none;color:inherit;">🍬 match-3</a>... hard to stay focused because of you guys. </p>
-
+<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </p> 
+<p align="center"> sssssssssss... besides snake, there’s <a href="https://tetris.com/play-tetris">🎮</a> tetris, <a href="https://minesweeper.online/">💣</a> minesweeper, <a href="https://www.king.com/game/candycrush">🍬</a> match-3... <br> hard to stay focused because of you guys. </p>
 ---
 
 ## 👀 Visitors  
