@@ -49,7 +49,7 @@
 ## 🛠️ Skills / 技术栈  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSSSizn&layout=compact&hide_border=true&cache_seconds=86400&hide=html,css" alt="Top Langs" />
+  <img src="./assets/top-langs.svg" alt="Top Langs" />
 </p>
 
 <p align="center">
@@ -70,7 +70,7 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SSSSizn&show_icons=true&hide_border=true&cache_seconds=86400&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="./assets/github-stats.svg" alt="GitHub Stats" />
 </p>
 
 
